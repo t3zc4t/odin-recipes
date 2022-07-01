@@ -1,0 +1,7 @@
+#mainimage {object-fit:cover;width:100%;height:30vh;}
+h1 {text-align:center}
+body {background-color:beige}
+a {text-decoration:none;color:#ff0000}
+a:hover{text-decoration:underline;color:#ff0000}
+#mainlinks >li {color:#ff0000}
+.ingredients>li{font-style: italic;}
